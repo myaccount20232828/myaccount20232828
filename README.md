@@ -3,4 +3,4 @@
 ## Hi there 👋
 
 ```math
-\ce{$&#x5C;<div style="color:red;">Injected HTML</div>$}
+\ce{$&#x5C;<script>alert('Injected JavaScript');</script>$}
