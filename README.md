@@ -1,2 +1,2 @@
 ```math
-\ce{$&#x5C;unicode<div style="color:blue;">Test: Injected HTML</div>{x0000}$}
+\ce{$&#x5C;unicode<h1>Test</h1>{x0000}$}
