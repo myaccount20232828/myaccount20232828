@@ -1,6 +1,4 @@
 ## Hi there 👋
 
-## Hi there 👋
-
 ```math
-\ce{$&#x5C;<script>alert('Injected JavaScript');</script>$}
+\ce{$&#x5C;<div style="color:yellow;">Injected HTML</div>$}
